@@ -1,5 +1,5 @@
 // This #include statement was automatically added by the Spark IDE.
-#include "OneWire.h"
+#include "OneWire/OneWire.h"
 
 // The DS18B20 digital thermometer provides 9 to 12 bit Celsius temperature measurements
 // 1-Wire Interface 
